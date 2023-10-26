@@ -12,3 +12,9 @@ In this project, I demonstrate how to create anime-style faces using a DCGAN, a 
 - Training the model on a dataset of anime faces.
 - Generating new, synthetic anime faces.
 
+## Result
+
+![Anime Face](results/dcgan.png)
+
+
+![Anime Face](results/dcgan2.png)
